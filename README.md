@@ -30,7 +30,7 @@ The following list has been sourced from the project report.
 | 9    | ThingSpeak-compatible Web Dashboard      | 1        |
 
 
-## 👨‍💻 Author
+## Author
 
 **Akshay Kumar A.** 
 
