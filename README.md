@@ -8,11 +8,11 @@ The data is visualized on **ThingSpeak**, allowing continuous monitoring and ana
 
 ## Features
 
-- ** Real-Time Monitoring**: Tracks methane (CH₄), carbon dioxide (CO₂), temperature, and humidity in landfill environments.
-- ** Cloud Connectivity**: Uploads sensor data to ThingSpeak for live graphing and analytics.
-- ** OLED Display**: Displays gas concentration locally for on-site monitoring.
-- ** Smart Alerts**: Sends web-based notifications when critical levels are detected.
-- ** Sustainability Focus**: Aims to convert harmful methane into safe compounds or useful energy in future phases.
+- **Real-Time Monitoring**: Tracks methane (CH₄), carbon dioxide (CO₂), temperature, and humidity in landfill environments.
+- **Cloud Connectivity**: Uploads sensor data to ThingSpeak for live graphing and analytics.
+- **OLED Display**: Displays gas concentration locally for on-site monitoring.
+- **Smart Alerts**: Sends web-based notifications when critical levels are detected.
+- **Sustainability Focus**: Aims to convert harmful methane into safe compounds or useful energy in future phases.
 
 ## Hardware Components  
 The following list has been sourced from the project report.
